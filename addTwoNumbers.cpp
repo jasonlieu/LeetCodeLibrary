@@ -73,6 +73,4 @@ int main(){
     cout<<result->val<<" ";
     cout<<result->next->val<<" ";
     cout<<result->next->next->val<<" ";
-
-
 }
