@@ -5,7 +5,6 @@ Output: 7 -> 0 -> 8
 Explanation: 342 + 465 = 807.
  */
 #include <iostream>
-#include <stack>
 using namespace std;
 struct ListNode {
      int val;
