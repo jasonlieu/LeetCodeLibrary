@@ -13,3 +13,4 @@ Created for coding practice and to have a library of algorithms to refer to
 1/19/2019   subsetVector.cpp (not LeetCode)
 1/19/2019   canJump.cpp
 1/20/2019   threeSum.cpp
+1/21/2019   validParentheses.cpp
