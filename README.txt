@@ -15,3 +15,4 @@ Created for coding practice and to have a library of algorithms to refer to
 1/20/2019   threeSum.cpp
 1/21/2019   validParentheses.cpp
 2/11/2019   addBinary.cpp
+2/13/2019   isPalindrome.cpp
